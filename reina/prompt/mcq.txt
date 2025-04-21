@@ -4,3 +4,5 @@ Watch the video and select the most appropriate answer (A, B, C, D, or E), based
 
 Respond in the following format:
 Answer: <A/B/C/D/E>
+
+Do not explain your choice unless explicitly asked.
