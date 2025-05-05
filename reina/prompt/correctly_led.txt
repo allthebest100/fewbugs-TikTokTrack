@@ -1,3 +1,0 @@
-You are answering a well-formed and visually grounded question about a video.
-
-Answer accurately based only on the video content. If helpful, provide a brief explanation.

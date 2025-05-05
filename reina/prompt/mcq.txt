@@ -1,8 +1,0 @@
-You are answering a multiple-choice question about a video.
-
-Watch the video and select the most appropriate answer (A, B, C, D, or E), based solely on what is visually presented.
-
-Respond in the following format:
-Answer: <A/B/C/D/E>
-
-Do not explain your choice unless explicitly asked.

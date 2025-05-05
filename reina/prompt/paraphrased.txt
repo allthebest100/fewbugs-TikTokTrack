@@ -1,5 +1,0 @@
-You are answering a paraphrased version of a question about a video.
-
-Ensure your answer is semantically consistent with the original intent of the question.
-
-Do not be misled by wording changes. Base your answer strictly on what is shown in the video.
